@@ -17,4 +17,8 @@ function successCallback(position) {
 
 function errorCallback(error) {
     alert('Geolocation not supported');
+} 
+function triggerHelp(){
+    console.log ('open help');
 }
+console.log ('hfuierj jfoijp');
