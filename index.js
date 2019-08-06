@@ -18,3 +18,6 @@ function successCallback(position) {
 function errorCallback(error) {
     alert('Geolocation not supported');
 }
+console.log('hiuehyhjhtigit status')
+console.log('hiuehyhtigit status')
+console.log('hiuehyhjhtigit status')
